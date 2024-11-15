@@ -1,0 +1,19 @@
+:root {
+  --pr-color: #048853;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-image: url("../images/frontend/tomato.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+
+.panel-login {
+  z-index: 2;
+}
